@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ```
 ## Deploy on Vercel
 
-Here  you can through the Website Link:
+Here  you can through the Deployment Link:
 https://family-data-next-js.vercel.app/
 
 
